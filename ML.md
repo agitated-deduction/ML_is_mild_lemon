@@ -5,3 +5,4 @@
 입력값 x와 가중치 w 가 만나서 y
 
 [이거보고 공부해야지](https://wikidocs.net/24958)
+[텐서플로우](http://hunkim.github.io/ml/)
